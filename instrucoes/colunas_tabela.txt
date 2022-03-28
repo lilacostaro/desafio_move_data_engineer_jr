@@ -1,0 +1,19 @@
+campos
+OK Resolução           - RESOLUÇÃO-RE N°5.465, DE 30 DE DEZEMBRO DE 2020
+OK Empresa             - NOME DA EMPRESA
+OK Autorização         - 3.03086-2
+Marca               - MARCA
+Processo            - PROCESSO
+Registro            - REGISTRO
+Venda e Emprego     - 
+Vencimento
+Apresentação
+Validade Produto
+Categoria
+Assunto Peticao
+Expedinte Peticao
+Versao
+
+
+https://www.in.gov.br/web/dou/-/resolucao-re-n-522-de-17-de-fevereiro-de-2022-381447439
+div.texto-dou

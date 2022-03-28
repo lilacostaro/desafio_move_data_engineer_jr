@@ -1,0 +1,61 @@
+28-03-2022 08:08:32:308595, Iniciando Processo
+28-03-2022 08:08:32:308595, Iniciando Coleta de Links
+28-03-2022 08:08:47:903642, Links Coletados
+28-03-2022 08:08:47:903642, Iniciando Iteração de links
+28-03-2022 08:08:47:903642, Iniciando ETL da resolução https://www.in.gov.br/web/dou/-/resolucao-re-n-522-de-17-de-fevereiro-de-2022-381447439
+28-03-2022 08:08:49:155010, Dados Coletados
+28-03-2022 08:08:49:155010, Dados Tratados
+28-03-2022 08:08:49:785538, Dataframe Finalizado
+28-03-2022 08:08:49:803639, Arquivo exportado
+28-03-2022 08:08:49:804635, ETL Finalizado
+28-03-2022 08:08:49:804635, Iniciando ETL da resolução https://www.in.gov.br/web/dou/-/resolucao-re-n-430-de-10-de-fevereiro-de-2022-379899450
+28-03-2022 08:08:50:820364, Dados Coletados
+28-03-2022 08:08:50:820364, Dados Tratados
+28-03-2022 08:08:50:879440, Dataframe Finalizado
+28-03-2022 08:08:50:883438, Arquivo exportado
+28-03-2022 08:08:50:884442, ETL Finalizado
+28-03-2022 08:08:50:884442, Iniciando ETL da resolução https://www.in.gov.br/web/dou/-/resolucao-re-n-361-de-3-de-fevereiro-de-2022-378387845
+28-03-2022 08:08:51:945010, Dados Coletados
+28-03-2022 08:08:51:945010, Dados Tratados
+28-03-2022 08:08:52:050302, Dataframe Finalizado
+28-03-2022 08:08:52:050302, Arquivo exportado
+28-03-2022 08:08:52:050302, ETL Finalizado
+28-03-2022 08:08:52:050302, Iniciando ETL da resolução https://www.in.gov.br/web/dou/-/resolucao-re-n-255-de-27-de-janeiro-de-2022-376898876
+28-03-2022 08:08:53:161233, Dados Coletados
+28-03-2022 08:08:53:161233, Dados Tratados
+28-03-2022 08:08:53:235462, Dataframe Finalizado
+28-03-2022 08:08:53:242462, Arquivo exportado
+28-03-2022 08:08:53:242462, ETL Finalizado
+28-03-2022 08:08:53:242462, Iniciando ETL da resolução https://www.in.gov.br/web/dou/-/resolucao-re-n-175-de-20-de-janeiro-de-2022-375565424
+28-03-2022 08:08:54:420322, Dados Coletados
+28-03-2022 08:08:54:420322, Dados Tratados
+28-03-2022 08:08:54:584770, Dataframe Finalizado
+28-03-2022 08:08:54:590012, Arquivo exportado
+28-03-2022 08:08:54:590012, ETL Finalizado
+28-03-2022 08:08:54:590012, Iniciando ETL da resolução https://www.in.gov.br/web/dou/-/resolucao-re-n-4.866-de-30-de-dezembro-de-2021-371608791
+28-03-2022 08:08:55:645280, Dados Coletados
+28-03-2022 08:08:55:646259, Dados Tratados
+28-03-2022 08:08:55:730306, Dataframe Finalizado
+28-03-2022 08:08:55:733304, Arquivo exportado
+28-03-2022 08:08:55:733304, ETL Finalizado
+28-03-2022 08:08:55:734266, Iteração realizada com sucesso! Todos os dados foram coletados, tratados e exportados!
+28-03-2022 08:08:55:734266, Iniciando Concatenação dos arquivos
+28-03-2022 08:08:57:010419, Arquivo final com todos os dados referentes ao periodo selecionado, foi gerado com sucesso!
+28-03-2022 08:08:57:010419, Gerando dataframe categorias!
+28-03-2022 08:08:57:030494, Dataframe gerado e exportado com sucesso!
+28-03-2022 08:08:57:048048, Gerando dataframe assuntos!
+28-03-2022 08:08:57:058084, Dataframe gerado e exportado com sucesso!
+28-03-2022 08:08:57:066042, Gerando dataframe saneantes!
+28-03-2022 08:08:57:103439, Dataframe gerado e exportado com sucesso!
+28-03-2022 08:08:57:570232, Database aberto com sucesso!
+28-03-2022 08:08:57:640030, Dados de categoria inseridos com sucesso
+28-03-2022 08:08:57:640030, Dados de assunto inseridos com sucesso
+28-03-2022 08:08:57:730157, Dados de saneantes inseridos com sucesso
+28-03-2022 08:08:57:730157, Enviando email com para o cliente com o arquivo gerado!
+28-03-2022 08:09:03:520144, Email enviado com sucesso!
+28-03-2022 08:09:03:520144, Movendo os arquivos csv para uma pasta de backup
+28-03-2022 08:09:03:520144, Arquivos movidos com sucesso!
+28-03-2022 08:09:03:520144, Movendo o arquivo xlsx para uma pasta de backup
+28-03-2022 08:09:03:520144, Arquivo movido com sucesso!
+28-03-2022 08:09:03:520144, Processo realizado com sucesso! Tempo total de execucao: 0:00:31.293162
+

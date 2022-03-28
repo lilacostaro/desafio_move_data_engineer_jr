@@ -8,7 +8,7 @@
 
 #### **Terceiros**
 
-- [Seleminu](https://www.selenium.dev/selenium/docs/api/py/index.html)
+- [Selenium](https://www.selenium.dev/selenium/docs/api/py/index.html)
 
 - [Requests](https://docs.python-requests.org/en/latest/)
 

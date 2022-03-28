@@ -62,9 +62,9 @@ move_files(r'resolucoes', r'resolucoes_backup')
 log('Arquivos movidos com sucesso!')
 
 # Envia um email para o cliente com o arquivo gerados
-# log('Enviando email com para o cliente com o arquivo gerado!')
-# envia_email('costa.camila.ro@gmail.com', 'lila.costa.ro@gmail.com', 'Tom2910#')
-# log('Email enviado com sucesso!')
+log('Enviando email com para o cliente com o arquivo gerado!')
+envia_email('email_remetente', 'email_destinatario', 'senha_remetente')
+log('Email enviado com sucesso!')
 
 # Move os arquivo lidos para uma pasta de backup
 log('Movendo o arquivo xlsx para uma pasta de backup')
